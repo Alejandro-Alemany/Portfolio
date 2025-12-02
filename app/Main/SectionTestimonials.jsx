@@ -207,6 +207,29 @@ const SectionTestimonials = () => {
                 </div>
                 <div className="testimonials-item-grid" />
               </div>
+              <div className="testimonials-item">
+                <div className="testimonials-item-content">
+                  <div className="w-full h-full flex flex-col justify-between">
+                    <Image
+                      src="/images/igloo.png"
+                      width={1200}
+                      height={1200}
+                      className="w-full rounded-xl"
+                      alt=""
+                    />
+                    <div className="flex w-full justify-center items-center  text-white text-2xl">
+                      <a
+                        href="https://www.igloo.inc/"
+                        className="text-zinc-400 hover:text-zinc-50"
+                        target="_blank"
+                      >
+                        Visit
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div className="testimonials-item-grid" />
+              </div>
 
               <div className="testimonials-item-padding" />
             </div>

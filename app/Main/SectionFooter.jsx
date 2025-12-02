@@ -129,6 +129,12 @@ const SectionFooter = () => {
               <div className="footer-column-contents-item">
                 <p className="description grey hover-text-grey">2D/3D Model Design</p>
               </div>
+              <div className="footer-column-contents-item">
+                <p className="description grey hover-text-grey">Mobile Development</p>
+              </div>
+              <div className="footer-column-contents-item">
+                <p className="description grey hover-text-grey">Smart Contract</p>
+              </div>
             </div>
           </div>
         </div>
