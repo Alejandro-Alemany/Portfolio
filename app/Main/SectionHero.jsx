@@ -186,7 +186,7 @@ const SectionHero = () => {
                 className="big-description grey opacity-blur"
                 ref={descriptionRef}
               >
-                Senior Full-Stack AI/ML Engineer and MLOps Expert with 9+ years of experience building scalable,
+                Senior Full-Stack AI/ML Engineer and MLOps Expert with 10 years of experience building scalable,
                 intelligent, and user-friendly applications across healthcare, supply chain, and enterprise systems. Skilled
                 in deep learning, NLP, computer vision, and Generative AI, I specialize in delivering end-to-end AI
                 solutions from model development to full-stack integration on AWS, GCP, and Azure.

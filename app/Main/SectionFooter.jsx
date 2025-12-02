@@ -86,7 +86,7 @@ const SectionFooter = () => {
           />
           <h1 className="subheadline white">Alejandro Alemany</h1>
           <p className="description grey">
-          Senior Full-Stack AI/ML Engineer and MLOps Expert with 9+ years of experience building scalable,
+          Senior Full-Stack AI/ML Engineer and MLOps Expert with 10 years of experience building scalable,
           intelligent, and user-friendly applications across healthcare, supply chain, and enterprise systems. Skilled
           in deep learning, NLP, computer vision, and Generative AI, I specialize in delivering end-to-end AI
           solutions from model development to full-stack integration on AWS, GCP, and Azure.  
@@ -126,9 +126,9 @@ const SectionFooter = () => {
                 Consulting & Team Enablement
                 </p>
               </div>
-              {/* <div className="footer-column-contents-item">
-                <p className="description grey hover-text-grey">UI/UX Design</p>
-              </div> */}
+              <div className="footer-column-contents-item">
+                <p className="description grey hover-text-grey">2D/3D Model Design</p>
+              </div>
             </div>
           </div>
         </div>
@@ -168,7 +168,7 @@ const SectionFooter = () => {
               ></path>
             </svg>
           </a>
-          <a href="" target="_blank">
+          <a href="https://t.me/alemanyalejandro" target="_blank">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"

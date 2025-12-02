@@ -169,7 +169,7 @@ const SectionShowreel = () => {
             ref={showreelItemRef4}
           >
             <img
-              src="/logos/Screenshot_17.png"
+              src="/logos/Screenshot_17.jpg"
               className="showreel-content-row-item-image"
               alt=""
             />
@@ -302,7 +302,7 @@ const SectionShowreel = () => {
               </h4>
               <div className="flex flex-col flex-1 gap-2">
                 <h3 className="text-2xl font-medium leading-7 text-zinc-200">
-                Machine Learning Engineer | Founder (Prometheus AI)
+                Machine Learning Engineer | Founder (LuminaLogiX)
                   <span className="font-normal text-zinc-400 lg:hidden">
                     {" "}
                     - 2019
