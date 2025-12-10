@@ -146,7 +146,7 @@ const SectionFooter = () => {
         </p>
         <div className="footer-socials">
           {/* <Linkedin strokeWidth={1.25} className="footer-socials-icon" /> */}
-          <a href="https://www.linkedin.com/in/alemany-alejandro/" target="_blank">
+          <a href="https://www.linkedin.com/in/alejandro-alemany-a4801a106/" target="_blank">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 1000 1000"
